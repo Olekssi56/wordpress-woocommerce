@@ -106,10 +106,6 @@ require_once( ABSPATH . 'wp-settings.php' );
 
 define('WP_TEMP_DIR', 'C:\Bitnami\wordpress/apps/wordpress/tmp');
 
-
-//  Disable pingback.ping xmlrpc method to prevent Wordpress from participating in DDoS attacks
-//  More info at: https://docs.bitnami.com/general/apps/wordpress/troubleshooting/xmlrpc-and-pingback/
-
 if ( !defined( 'WP_CLI' ) ) {
     // remove x-pingback HTTP header
     add_filter('wp_headers', function($headers) {

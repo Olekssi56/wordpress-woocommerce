@@ -9,10 +9,6 @@
 
 
 
-## SHOP Page :<br><br>
-
-
-
 <p ><atarget="_blank"><img src="wp-content/shop page.png" width="1000" alt="Laravel Logo"></a></p><br><br>
 
 
@@ -47,7 +43,6 @@
 
 <p ><atarget="_blank"><img src="wp-content/checkout page .png" width="1000" alt="Laravel Logo"></a></p>
 <p ><atarget="_blank"><img src="wp-content/chikout 2.png" width="1000" alt="Laravel Logo"></a></p>
-<p ><atarget="_blank"><img src="wp-content/chekout 3.png" width="1000" alt="Laravel Logo"></a></p>
 <p ><atarget="_blank"><img src="wp-content/chekout 4.png" width="1000" alt="Laravel Logo"></a></p><br><br>
 
 

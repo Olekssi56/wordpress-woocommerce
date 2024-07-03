@@ -79,15 +79,6 @@ $table_prefix = 'wp_';
  */
 define( 'WP_DEBUG', false );
 
-/* That's all, stop editing! Happy publishing. */
-/**
- * The WP_SITEURL and WP_HOME options are configured to access from any hostname or IP address.
- * If you want to access only from an specific domain, you can modify them. For example:
- *  define('WP_HOME','http://example.com');
- *  define('WP_SITEURL','http://example.com');
- *
-*/
-
 if ( defined( 'WP_CLI' ) ) {
     $_SERVER['HTTP_HOST'] = 'localhost';
 }
